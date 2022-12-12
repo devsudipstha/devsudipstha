@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sudip stha
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on NFTs
+- 💞️ I’m looking to collaborate on NFTs & blockchain development
 - 📫 How to reach me ? Mail to: devsudipstha@gmail.com
 
 <!---
