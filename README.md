@@ -22,12 +22,10 @@ Currently I'm learning and practicing courses and algorithms,
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/MosFazli
-[2]: https://www.linkedin.com/in/mosfazli/
-[3]: https://www.instagram.com/mosfazli
-[4]: https://telegram.me/MosFazli
+[1]: https://twitter.com/sudipstha08
+[2]: https://www.linkedin.com/in/sudipstha08/
+[3]: https://www.instagram.com/sudip_stha__
 
 
 <br>
@@ -57,8 +55,8 @@ Currently I'm learning and practicing courses and algorithms,
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=devsudipstha&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsudipstha&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
  
