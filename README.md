@@ -68,6 +68,8 @@ Currently I'm learning and practicing courses and algorithms,
 - 💞️ I’m looking to collaborate on NFTs & blockchain development
 - 📫 How to reach me ? Mail to: devsudipstha@gmail.com
 
+<a href="https://app.daily.dev/devsudipstha"><img src="https://api.daily.dev/devcards/5bdc11d7610046b8b729c45ad99f1bc7.png?r=2y8" width="400" alt="Sudip Shrestha's Dev Card"/></a>
+
 <!---
 devsudipstha/devsudipstha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
